@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00fff3;
+}
+#text{
+    position: relative;
+    font-weight: 700;
+    font-size: 10em;
+    color: #fff;
+    outline: none;
+    width: 100%;
+    text-align: center;
+    text-shadow: 1px 1px 0 #01ded3;
+}
